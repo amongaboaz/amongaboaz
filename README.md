@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react js,next js,node js and express**
 
-- 📫 How to reach me **amongaboaz@gmail.com**
+
 
 - 📄 Know about my experiences [https://v0-boaz-portfolio-website.vercel.app/](https://v0-boaz-portfolio-website.vercel.app/)
 
