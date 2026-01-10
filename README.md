@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://v0-boaz-portfolio-website.vercel.app/](https://v0-boaz-portfolio-website.vercel.app/)
 
-- ⚡ Fun fact **Car ethusiat**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
