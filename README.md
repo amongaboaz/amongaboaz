@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amongaboaz" alt="amongaboaz" /></a> </p>
 
-- 🔭 I’m currently working on [table x](https://www.tablex.co.ke/)
+- 🔭 I’m currently working on [table x](https://grocery-delivery-gold.vercel.app/)
 
 - 🌱 I’m currently learning **Node js and express**
 
